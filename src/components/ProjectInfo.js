@@ -1,0 +1,55 @@
+const ProjectInfo = [
+  {
+    id: 1,
+    title: "PEMI - Branding",
+    domaine: "design",
+    thumbnail: "/img/pemi-thumbnail.png",
+    skills: ["Logo", "branding", "illustrator", "photoshop"],
+    imgProject: "/img/pemi.png",
+    link: "https://www.behance.net/gallery/105715543/PEMI-Branding",
+    categorie: "Logos & Branding",
+  },
+  {
+    id: 2,
+    title: "Almejhar - logo",
+    domaine: "design",
+    thumbnail: "/img/almejhar-thumbnail.png",
+    skills: ["Logo", "illustrator", "photoshop"],
+    imgProject: "/img/almejhar.png",
+    link: "https://www.behance.net/gallery/113432919/logo-Almejhar-",
+    categorie: "Logos & Branding",
+  },
+  {
+    id: 3,
+    title: "med berrima website",
+    domaine: "development",
+    thumbnail: "/img/med website thumbnail.png",
+    skills: ["HTML", "css", "bootstrap", "javascript", "jQuery", "ui/ux design", "photoshop"],
+    imgProject: "/img/med-website.png",
+    link: "https://github.com/medberrima/medberrima.github.io",
+    categorie: "Landing page",
+  },
+  {
+    id: 4,
+    title: "Tamdeed - logo",
+    domaine: "design",
+    thumbnail: "/img/tamdeed-thumbnail.png",
+    skills: ["Logo", "illustrator", "photoshop"],
+    imgProject: "/img/tamdeed.png",
+    link: "https://www.behance.net/gallery/113435731/Logo-Tamdeed-",
+    categorie: "Logos & Branding",
+  },
+  {
+    id: 5,
+    title: "WeDevelop club Design",
+    domaine: "design",
+    thumbnail: "/img/WeDevelop-thumbnail.png",
+    skills: ["social media posts", "photoshop", "club"],
+    imgProject: "/img/WeDevelop.png",
+    link: "",
+    categorie: "social media design",
+  },
+  
+];
+
+export default ProjectInfo;
